@@ -4,7 +4,8 @@
   "description": "basic angular project structure with minimal set of configuration files.",
   "main": "index.js",
   "scripts": {
-    "start": "live-server --host=localhost --port=8000 --open=./app"
+    "start": "live-server --host=localhost --port=8000 --open=./app",
+    "postinstall": "bower install"
   },
   "author": "",
   "license": "ISC",
