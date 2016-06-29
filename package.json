@@ -1,0 +1,15 @@
+{
+  "name": "seed",
+  "version": "1.0.0",
+  "description": "basic angular project structure with minimal set of configuration files.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --host=localhost --port=8000 --open=./app"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0",
+    "live-server": "^1.0.0"
+  }
+}

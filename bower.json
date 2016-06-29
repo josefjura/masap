@@ -1,0 +1,21 @@
+{
+  "name": "seed",
+  "description": "basic angular project structure with minimal set of configuration files.",
+  "main": "index.js",
+  "authors": [
+    "Jan Válek <jan.valek@live.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.7"
+  }
+}
